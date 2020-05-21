@@ -6,4 +6,4 @@ Meu projeto de teste de controle de versão replit e github;
 
 #### Projeto
 
-Projeto criado na disciplina de PRORO, unasp 2020, sem 1
+Projeto criado na disciplina de PRORO, unasp 2020, semestre 1
